@@ -63,7 +63,7 @@ for entry in parse_trim_data(csv_file):
     id_dys = entry[0]
     leng_dys = int(entry[1])
     leng_flank = int(entry[2])
-    
+    # ENDED HERE WITH UPDATING FLANKS PROGRAM
 
     #find the corresponding One Code to Find Them All sequence
     for coordinate in find_fa_seq(fasta_file,query_sequence,left_flank_end,right_flank_begin):
