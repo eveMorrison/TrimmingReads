@@ -1,0 +1,3 @@
+#read_id_dys	read_length_dys	read_id_nondys	read_length_nondys	difference	difference_divided_by_2
+>b7d6627e-d0ec-47e3-b370-d067814e9b4f	148708	>7eed3495-d2ff-4e2c-b82d-ba1eacd5a370	152345 3637 1818.5
+>058b3785-b29d-4b30-b7b3-01a66f5216d3	161760	>5d73fc6a-c94d-4e2b-8ef4-6525c9743aa0	166087 4327 2163.5
