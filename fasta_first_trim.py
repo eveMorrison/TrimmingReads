@@ -9,6 +9,7 @@ f = open("dys_reads_trimmed.fasta", "a")
 
 #####your python script#####
 for seq_record in SeqIO.parse(fasta_file, "fasta"):
+    f.write(str(seq_record))
     '''if(str(">" + seq_record.id) == seq_ID):
         f.write(">" + str(seq_record.id) + "\n")
         #f.write(str(seq_record.seq) + "\n")
