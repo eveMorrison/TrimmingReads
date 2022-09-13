@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=time fasta read
+#SBATCH --job-name=timefastaread
 #SBATCH --partition=sixhour
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user=e378m007@ku.edu
