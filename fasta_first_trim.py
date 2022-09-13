@@ -4,7 +4,8 @@ from Bio import SeqIO
 
 startTime = time.time()
 
-fasta_file = "Dys_reads_to_trim.fasta"
+#fasta_file = "Dys_reads_to_trim.fasta"
+fasta_file = "Dvir-dysgenic-all.fasta"
 f = open("dys_reads_trimmed.fasta", "a")
 
 #####your python script#####
